@@ -61,10 +61,15 @@
                 "useAcrylic": true
             },
             {
-                "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+                "guid": "{4a0847fc-eaec-4a54-b03e-5391c3eac7f5}",
                 "hidden": false,
-                "name": "Ubuntu",
-                "source": "Windows.Terminal.Wsl"
+                "name": "Python (ArcPro)",
+                "commandline" : "C:\\Program Files\\ArcGIS\\Pro\\bin\\Python\\Scripts\\proenv.bat",
+                "startingDirectory" : "%USERPROFILE%",
+                "acrylicOpacity": 0.25,
+                "useAcrylic": true,
+                // "fontFace": "Cascadia Code PL",
+                "colorScheme": "Solarized Dark"
             }
         ]
     },
