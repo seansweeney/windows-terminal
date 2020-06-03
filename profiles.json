@@ -44,30 +44,6 @@
                 "useAcrylic": true
             },
             {
-                // Yori
-                "acrylicOpacity": 0.1,
-                "backgroundImage": "ms-appdata:///roaming/images/backgrounds/ninjacat.png",
-                "backgroundImageOpacity": 0.15,
-                "backgroundImageStretchMode": "uniform",
-                "closeOnExit": true,
-                "colorScheme": "Campbell",
-                // "fontFace": "Cascadia Code PL",
-                "commandline": "c:/Program Files/Yori/yori.exe",
-                "cursorColor": "#FFFFFF",
-                "cursorShape": "bar",
-                "fontSize": 12,
-                "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa1237}",
-                "historySize": 9001,
-                "icon": "ms-appx:///ProfileIcons/{0caa0dad-35be-5f56-a8ff-afceeeaa6101}.png",
-                "name": "Yori",
-                "padding": "0, 0, 0, 0",
-                "snapOnInput": false,
-                "startingDirectory": "%USERPROFILE%",
-                "suppressApplicationTitle": true,
-                "tabTitle": "Yori",
-                "useAcrylic": true
-            },
-            {
                 // Make changes here to the cmd.exe profile
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "name": "cmd",
