@@ -206,4 +206,14 @@
         // To learn more about panes, visit https://aka.ms/terminal-panes
         { "command": { "action": "splitPane", "split": "auto", "splitMode": "duplicate" }, "keys": "alt+shift+d" },
         
+        {
+            "command":
+            {
+                "action": "wt",
+                "commandline": "new-tab -p \"Powershell\" ; split-pane -p \"Ubuntu\""
+            },
+            "name": "Development",
+            "icon": "☯"
+        }
+    ]
 }
